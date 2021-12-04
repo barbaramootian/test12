@@ -1,0 +1,9 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+col{
+        background-image: url(../images/carousel/event_bg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat; 
+}
